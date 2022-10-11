@@ -1,0 +1,32 @@
+#img-div{
+    display: flex;
+    
+}
+#image{
+      width: 45%; 
+      order: 2;  
+}
+#box-1 {
+    
+    width: 45%;
+    order: 1;
+    
+  }
+
+  #box-2 {
+  
+    width: 45%;
+    order: 3;
+  }
+#title{
+  text-align: center;
+}
+#img-caption{
+  text-align: center;
+}
+#year{
+  text-align: center;
+}
+#main{
+  background-color: rgb(117, 112, 112);
+}

@@ -1,0 +1,34 @@
+#body{
+    background-image: url(laptop.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+}
+   
+#title{
+    font-family: monospace;
+    text-align: center;
+    color: blanchedalmond;
+}
+#description{
+    
+    text-align: center;
+    font-family: monospace;
+    color: blanchedalmond;
+}
+#survey-form{
+    background: rgba(164, 164, 196, 0.5);
+    width: 50%;
+    padding: 40px;
+    margin: 100px auto;
+}
+#form_title{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#name{
+    
+}
+#email{
+
+}
